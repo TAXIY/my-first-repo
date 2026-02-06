@@ -1,0 +1,13 @@
+# Logs
+*.log
+
+# Temp files
+*.tmp
+*.bak
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# APEX export junk
+*.zip
